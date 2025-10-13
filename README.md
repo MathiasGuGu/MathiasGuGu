@@ -1,4 +1,4 @@
-Hi 👋 My name is Mathias
+Hi
 ========================
 
 Fullstack developer
