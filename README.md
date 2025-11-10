@@ -1,12 +1,9 @@
-Hi
-========================
-
 Fullstack developer
--------------------
+===================
 
-I have been a developer for almost 6 years now focusing on Frontend. I have recently picked up Fullstack development with Next.js + C# .NET.
+Fullstack developer who focused heavily on frontend. I sway between Svelte and React, with c#, hono or golang for my backend.
 
-*   🌍  I'm based in Stavanger, Norway
-*   🖥️  See my portfolio at [mathiasgumpen.com](http://mathiasgumpen.com)
-*   🧠  I'm learning SvelteKit + GO
+*   I'm based in Stavanger, Norway
+*   See my portfolio at [mathiasgumpen.com](http://mathiasgumpen.com)
+*   I'm focusing on SvelteKit + hono
 
